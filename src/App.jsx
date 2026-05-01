@@ -16,8 +16,8 @@ function App() {
       />
     </div>
     <div>
-      <h2>Card title</h2>
-      <p>lorum ipsum lorum ipsum sbjhdbsejh djhwbgdjhqvbwc cdwdqwdqwdqwd</p>
+      <h2>A cute baby</h2>
+      <p>I Would love to pet it.</p>
       <button>Buy now</button>
     </div>
 
